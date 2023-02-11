@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7dad9fdc-8baa-4898-94cb-bfb03fef58cf" name="Changes" comment="*Authenticate *Clean override *Login 07_02_2023">
-      <change beforePath="$PROJECT_DIR$/account/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/account/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/inc/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/inc/navbar.html" afterDir="false" />
-    </list>
+    <list default="true" id="7dad9fdc-8baa-4898-94cb-bfb03fef58cf" name="Changes" comment="*Logout 11_02_2023" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,7 +108,7 @@
       <workItem from="1674935433013" duration="5025000" />
       <workItem from="1675111660900" duration="2049000" />
       <workItem from="1675704470582" duration="9070000" />
-      <workItem from="1676128910053" duration="1436000" />
+      <workItem from="1676128910053" duration="1738000" />
     </task>
     <task id="LOCAL-00001" summary="*Templates management *Class base views *account *Widgets in forms *Namespaces 29_01_2023">
       <created>1674940341099</created>
@@ -135,7 +131,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675719529333</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="*Logout 11_02_2023">
+      <created>1676130528484</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676130528484</updated>
+    </task>
+    <task id="LOCAL-00005" summary="*Logout 11_02_2023">
+      <created>1676130771935</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676130771935</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,7 +166,8 @@
     <MESSAGE value="*Templates management *Class base views *account *Widgets in forms *Namespaces 29_01_2023" />
     <MESSAGE value="*Registration 31_01_2023" />
     <MESSAGE value="*Authenticate *Clean override *Login 07_02_2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="*Authenticate *Clean override *Login 07_02_2023" />
+    <MESSAGE value="*Logout 11_02_2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="*Logout 11_02_2023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
